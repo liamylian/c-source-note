@@ -33,3 +33,4 @@ cp objs/CmakeLists.txt .
 ## 参考
 
 - [Nginx-Cmake](https://github.com/Toudsour/nginx_cmake)
+- [NGINX 3rd Party Modules](https://www.nginx.com/resources/wiki/modules/)
